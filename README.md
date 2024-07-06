@@ -1,23 +1,23 @@
-RasaTradisional Backend
+# RasaTradisional Backend
 
-Backend untuk website RasaTradisional, sebuah platform yang bertujuan untuk mengenalkan dan mempromosikan makanan dan minuman tradisional dari beberapa kota di Jawa Tengah Indonesia.
+Backend untuk website **RasaTradisional**, sebuah platform yang bertujuan untuk mengenalkan dan mempromosikan makanan dan minuman tradisional dari beberapa kota di Jawa Tengah Indonesia.
 
-Daftar Isi
-Fitur
-1. Persyaratan
-2. Instalasi
-3. Konfigurasi
-4. Menjalankan Proyek
-5. API Endpoints
-6. Kontribusi
-7. Lisensi
+## Daftar Isi
+- Fitur
+- Persyaratan
+- Instalasi
+- Konfigurasi
+- Menjalankan Proyek
+- API Endpoints
+- Kontribusi
+- Lisensi
 
 
-Fitur
-1. Autentikasi pengguna
-2. Komentar dan ulasan makanan atau minuman
-3. Rating makanan atau minuman
+## Fitur
+- Autentikasi pengguna
+- Komentar dan ulasan makanan atau minuman
+- Rating makanan atau minuman
 
-Persyaratan
-1. Node.js >= 14.x
-2. npm atau yarn
+## Persyaratan
+- Node.js >= 14.x
+- npm atau yarn
